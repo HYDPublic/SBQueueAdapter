@@ -1,0 +1,2 @@
+# SBQueueAdapter
+Service Bus Adapter
